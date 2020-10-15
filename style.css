@@ -2,7 +2,7 @@
     width: 100%;
     height: 95vh;
     position: relative;
-    background: url(/img/Movies-On-Hulu-GQ-May-2018-050318.jpg) no-repeat center center/cover;
+    background: url(./img/Movies-On-Hulu-GQ-May-2018-050318.jpg) no-repeat center center/cover;
 }
 
 .hulu-showcase::after{
