@@ -27,14 +27,13 @@
 }
 
 .btn {
-    position: absolute;
     color: antiquewhite;
     text-decoration: none;
     font-family: 'Graphik',Helvetica,Arial,sans-serif;
     font-size: 14px;
     font-weight: 600;
     text-transform: uppercase;
-    margin-left: 1275px;
+    margin-left: 1205px;
 }
 
 .tiny-content {
@@ -88,13 +87,11 @@
 }
 
 .big-btn {
-    position: relative;
     font-size: 14px;
     font-weight: 600;
     padding: 1.1rem 1.5rem;
     text-transform: uppercase;
-    margin-top: 460px;
-    margin-left: 570px;
+    margin-left: 590px;
     border-radius: 6px;
     border: none;
     background-color: rgb(255, 255, 255);
